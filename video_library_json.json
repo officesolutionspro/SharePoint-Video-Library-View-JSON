@@ -112,7 +112,7 @@
                 },
                 "attributes": {
                   "class": "ms-fontColor-themePrimary ms-fontColor-themeDarker--hover",
-                  "title": "I Like this"
+                  "title": "I Love This!"
                 },
                 "style": {
                   "border": "none",
@@ -146,7 +146,7 @@
                 },
                 "attributes": {
                   "class": "ms-fontColor-themePrimary ms-fontColor-themeDarker--hover",
-                  "title": "I dislike this"
+                  "title": "I Dislike This!"
                 },
                 "style": {
                   "border": "none",
@@ -220,3 +220,4 @@
     ]
   }
 }
+
